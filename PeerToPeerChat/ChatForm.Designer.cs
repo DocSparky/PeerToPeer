@@ -43,7 +43,7 @@
             this.rtbChat.TabIndex = 2;
             this.rtbChat.TabStop = false;
             this.rtbChat.Text = "";
-            this.rtbChat.TextChanged += new System.EventHandler(this.rtbChat_TextChanged);
+//            this.rtbChat.TextChanged += new System.EventHandler(this.rtbChat_TextChanged);
             // 
             // tbSend
             // 
