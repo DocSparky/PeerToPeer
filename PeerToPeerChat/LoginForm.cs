@@ -12,8 +12,6 @@
  * Michael as "Daniel - AbraCadabra Flicker" before being decrypted with the "Daniel" salt to display "Daniel - Hello Friend"
 */
 
-S
-
 using System;
 using System.Collections.Generic;
 using System.ComponentModel;

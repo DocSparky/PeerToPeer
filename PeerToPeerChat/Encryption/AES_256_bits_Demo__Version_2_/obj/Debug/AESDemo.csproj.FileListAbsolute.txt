@@ -1,0 +1,7 @@
+H:\test\p2\AESDemo\bin\Debug\AESDemo.exe
+H:\test\p2\AESDemo\bin\Debug\AESDemo.pdb
+H:\test\p2\AESDemo\obj\Debug\AESDemo.Form1.resources
+H:\test\p2\AESDemo\obj\Debug\AESDemo.Properties.Resources.resources
+H:\test\p2\AESDemo\obj\Debug\AESDemo.csproj.GenerateResource.Cache
+H:\test\p2\AESDemo\obj\Debug\AESDemo.exe
+H:\test\p2\AESDemo\obj\Debug\AESDemo.pdb
