@@ -1,0 +1,11 @@
+C:\GIT\PeerToPeer\PeerToPeerChat\bin\Debug\PeerToPeerChat.exe.config
+C:\GIT\PeerToPeer\PeerToPeerChat\bin\Debug\PeerToPeerChat.exe
+C:\GIT\PeerToPeer\PeerToPeerChat\bin\Debug\PeerToPeerChat.pdb
+C:\GIT\PeerToPeer\PeerToPeerChat\obj\Debug\PeerToPeerChat.csprojAssemblyReference.cache
+C:\GIT\PeerToPeer\PeerToPeerChat\obj\Debug\PeerToPeerChat.ChatForm.resources
+C:\GIT\PeerToPeer\PeerToPeerChat\obj\Debug\PeerToPeerChat.LoginForm.resources
+C:\GIT\PeerToPeer\PeerToPeerChat\obj\Debug\PeerToPeerChat.Properties.Resources.resources
+C:\GIT\PeerToPeer\PeerToPeerChat\obj\Debug\PeerToPeerChat.csproj.GenerateResource.cache
+C:\GIT\PeerToPeer\PeerToPeerChat\obj\Debug\PeerToPeerChat.csproj.CoreCompileInputs.cache
+C:\GIT\PeerToPeer\PeerToPeerChat\obj\Debug\PeerToPeerChat.exe
+C:\GIT\PeerToPeer\PeerToPeerChat\obj\Debug\PeerToPeerChat.pdb

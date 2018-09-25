@@ -98,6 +98,12 @@ namespace PeerToPeerChat
             if (!string.IsNullOrEmpty(tbSend.Text))                     // Checks to see if user is trying to send a blank line
             {
                 string toSend = userName + ":\n" + tbSend.Text;         // Create a string of user name and trimmed message
+
+
+
+
+
+
                 byte[] data = Encoding.ASCII.GetBytes(toSend);          // Generate array of bytes representing string of previous line
                 sendingClient.Send(data, data.Length);                  // Send array of previous line
                 tbSend.Text = "";                                       // Clear text entry box
@@ -123,7 +129,7 @@ namespace PeerToPeerChat
 
         private void MessageReceived(string message)
         {
-            rtbChat.Text += message + "\n";
+            rtbChat.Text += message + "\n" + "\n";
         }
 
         // I think these lines are extraneous,... not positive..
